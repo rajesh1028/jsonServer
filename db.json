@@ -91,5 +91,117 @@
                 "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
             ]
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "firstname": "Ad",
+            "lastname": "Minister",
+            "email": "admin@mail.com",
+            "password": "$2b$10$lLm5Lp40uBR9CUrZn58CdOl8yu5Gp2umAO.6ly.vWcZ0a0vUKsHiC",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+            "userLevel": 4,
+            "createdAt": 1670165980638
+        },
+        {
+            "id": 2,
+            "username": "Hal_Kihn71",
+            "firstname": "Jessie",
+            "lastname": "Lesch",
+            "email": "Everette81@hotmail.com",
+            "password": "$2b$10$xnVz4CopNmo4.1kn61axSertJHENHcL3YuwaOHkI0cERlCgHBgXuC",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1016.jpg",
+            "userLevel": 4,
+            "createdAt": 1670165980693
+        },
+        {
+            "id": 3,
+            "username": "Ahmad_Pouros",
+            "firstname": "Nakia",
+            "lastname": "Stroman",
+            "email": "Jesse_Zieme@gmail.com",
+            "password": "$2b$10$XCjSY/u26yOlWl5IDB/F7u06n/K9X4LCP7Aj0mnRCHfdzy/C1iXxK",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/355.jpg",
+            "userLevel": 2,
+            "createdAt": 1670165980747
+        },
+        {
+            "id": 4,
+            "username": "Herbert72",
+            "firstname": "Delilah",
+            "lastname": "Feeney",
+            "email": "Jessyca69@yahoo.com",
+            "password": "$2b$10$Nzddo1CyeiX/fbR155gLbuxnXRN/I0TZGnwryuwxILZ9Vv2pfrU5O",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/855.jpg",
+            "userLevel": 4,
+            "createdAt": 1670165980808
+        },
+        {
+            "id": 5,
+            "username": "Monserrat4",
+            "firstname": "Geoffrey",
+            "lastname": "Senger",
+            "email": "Demarcus_Lakin30@yahoo.com",
+            "password": "$2b$10$j39DwXUyjknu3v.V3q8lHOtSWWwoPo/GF0pOCgpLzDzwEPivZkhiy",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/836.jpg",
+            "userLevel": 1,
+            "createdAt": 1670165980868
+        },
+        {
+            "id": 6,
+            "username": "Audreanne_Schimmel",
+            "firstname": "Domenica",
+            "lastname": "Pfeffer",
+            "email": "Lyda2@hotmail.com",
+            "password": "$2b$10$cwvAVPq37S0/O5/6yt6rl.God5envfo8c83SlaIfCB8juymt8XHEu",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+            "userLevel": 4,
+            "createdAt": 1670165980923
+        },
+        {
+            "id": 7,
+            "username": "Loyal.Fahey",
+            "firstname": "Russell",
+            "lastname": "Gerlach",
+            "email": "Tomasa_Gusikowski@yahoo.com",
+            "password": "$2b$10$tovig6i67.hM1BSFofxeguzgwKKps5CmA7YqYy3XZpQUYLm1Xv7Gy",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/810.jpg",
+            "userLevel": 1,
+            "createdAt": 1670165980978
+        },
+        {
+            "id": 8,
+            "username": "Dedric95",
+            "firstname": "Tyrese",
+            "lastname": "Ankunding",
+            "email": "Tomasa_Boehm80@hotmail.com",
+            "password": "$2b$10$SQh3.nXV.FYZtnVwNkhDieheTVzWFqQRtDZyxHZ26TrL5ky9iK5De",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/936.jpg",
+            "userLevel": 3,
+            "createdAt": 1670165981033
+        },
+        {
+            "id": 9,
+            "username": "Valentina96",
+            "firstname": "Kelvin",
+            "lastname": "Friesen",
+            "email": "Jettie_Morissette@yahoo.com",
+            "password": "$2b$10$RxA6Me8qwBrWGUCh8/VfrO5eaHVIMqoV66hPNBQARzgBDYZet7.Mu",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1193.jpg",
+            "userLevel": 1,
+            "createdAt": 1670165981089
+        },
+        {
+            "id": 10,
+            "username": "Audreanne_Kemmer8",
+            "firstname": "Haylie",
+            "lastname": "Lubowitz",
+            "email": "Josephine.Mayer@hotmail.com",
+            "password": "$2b$10$is8r5E.rKiVSxeDn6bXNEuuOM4s2Lx9SXnL4Gg2xRNtwbk9NXTq8m",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/731.jpg",
+            "userLevel": 4,
+            "createdAt": 1670165981143
+        }
     ]
 }
