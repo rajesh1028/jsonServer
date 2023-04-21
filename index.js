@@ -7,4 +7,8 @@ const port = process.env.PORT || 8080; //  chose port from here like 8080, 3001
 server.use(middlewares);
 server.use(router);
 
+router.get("/",(req,res)=>{
+    res.send("Home Page");
+});
+
 server.listen(port);
